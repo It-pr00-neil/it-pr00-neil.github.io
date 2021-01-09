@@ -1,6 +1,43 @@
-R-IO systems: 100%
-R-IO pilot stautus: Healthy
-Pilot.Cockpit.Capule(P.C2.): Locked
-P.C2. Entry: Successful
-P.C2. Entry Hacth: Sealed
-Launch bay: Clear
+<!DOCTYPE html>
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="C:\Users\joel\Desktop\Robot-IO\stylevid.css">
+    <title></title>
+  </head>
+  <body>
+    <header class="v-header container">
+    <div class="fullscreen-video-wrap">
+      <video src="C:\Users\joel\Desktop\Robot-IO\Automatic Chocolate Machine.mp4" autoplay="" loop="">
+    </video>
+    </div>
+    <div class="header-overlay"></div>
+    <div class="header-content text-md-center">
+      <h1>This will be replaced by an animation</h1>
+      <p></p>
+      <a class="btn">Find Out More</a>
+    </div>
+  </header>
+
+  <section class="section section-a">
+    <div class="container">
+      <h2>Section A</h2>
+      <div class="polaroid">
+        <img src="C:\Users\joel\Desktop\Robot-IO\Robot-IO.png" alt="">
+      </div>
+      <div class="polaroid">
+        <img src="C:\Users\joel\Desktop\Robot-IO\IMG_20210107_200015.jpg" alt="" width="770" height="1199">
+      </div>
+      <p>This is a protoype of the robot known as ... I haven't thought of a name yet</p>
+    </div>
+  </section>
+
+  <section class="section section-b">
+    <div class="container">
+      <h2>Section B</h2>
+      <p>This is the pilot of the robot name Andie</p>
+    </div>
+  </section>
+  </body>
+</html>
